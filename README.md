@@ -1,5 +1,5 @@
 # ncbi-orthomyxoviridae
-[![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml) [![GloBI review by Elton](https://github.com/globalbioticinteractions/template-dataset/actions/workflows/review.yml/badge.svg)](https://github.com/globalbioticinteractions/template-dataset/actions) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/ncbi-orthomyxoviridae)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/ncbi-orthomyxoviridae)
+[![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml)  [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/ncbi-orthomyxoviridae)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/ncbi-orthomyxoviridae)
 
 This repository contains configuration for GloBI to help index:
 
